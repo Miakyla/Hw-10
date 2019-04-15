@@ -1,0 +1,29 @@
+The claw machine
+Use The keyboard control claws to grab the toy you want
+
+Summary
+In this project, I would like to make a claw machine by p5.js Web Editor.
+I would like to set some “toys” in the claw machine and the player could move the claw by “←” and “→”. While they decided the toy they want, player could press space key to catch it. If the play can catch the toy successful, the machine will play a short music of victory.
+Component Parts
+The components of this coding will include the out frame, the claw and the toys.
+
+
+When your project is completed, you will then add the following sections:
+
+Timeline
+What did you do in each of the past four weeks?
+Week 0: Write Proposal
+Week 1:
+Week 2:
+Week 3:
+Week 4: Present!
+
+Challenges
+A brief discussion of what was hard, challenging, or unexpected about your project.
+
+Completed Work
+Upload photos and videos of your completed final project!
+Also upload the code that makes up your project to your repository.
+
+References and links
+Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
